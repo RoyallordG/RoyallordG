@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RoyallordG
+- 👋 Hi, I’m @RoyallordGideon
 - 👀 I’m interested in software solutions
 - 🌱 I’m currently learning back-end
 - 💞️ I’m looking to collaborate on software projects
